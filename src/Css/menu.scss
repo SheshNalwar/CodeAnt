@@ -71,6 +71,18 @@
             font-weight: 500;
             border: 2px solid black;
             border-radius: 10px;
+            gap: 1vw;
+            padding: 1vh 1vw;
+
+            span {
+                width: 70%;
+
+            }
+
+            svg {
+                height: 20px;
+                width: 20px;
+            }
         }
     }
 }
